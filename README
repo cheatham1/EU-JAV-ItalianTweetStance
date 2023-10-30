@@ -1,5 +1,4 @@
-# Upload a finetuned model and run 
-
+#Upload a finetuned model and run 
 EU-JAV: Understanding the vaccine stance of Italian tweets
 
 We have finetuned a Transformer-based machine learning model for analysing the vaccine stance of Italian tweets.
@@ -12,4 +11,4 @@ dataset B: tweets from April to September 2021.
 
 XLM-RoBERTa-large model was finetuned using dataset A and dataset B training sets.
 
-# Here we show how to load the finetuned model and test data, then run the model and plot the resulting stance classifications.
+#Here we show how to load the finetuned model and test data, then run the model and plot the resulting stance classifications.
